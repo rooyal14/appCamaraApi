@@ -1,0 +1,12 @@
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/fale_com_seu_candidato
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/rooyal14/Desktop/Code/ADS/AplicacaoFlutterCamara/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
